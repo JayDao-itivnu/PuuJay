@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PuuJay
+- 👀 I’m interested in Low cost Hardware Cryptography Implementation
+- 🌱 I’m currently learning Elliptic Curve Cryptography (ECC)and RFID context
+- 📫 You can reach me via email: 197.hiepmanhdao@gmail.com
